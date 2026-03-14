@@ -57,8 +57,8 @@ npm run build
 <summary><b>Claude Code</b></summary>
 
 ```bash
-# 安装
-claude mcp add kimi-search node "$(pwd)/dist/index.js" -e KIMI_CODE_API_KEY=your-api-key
+# 安装（全局，所有项目可用）
+claude mcp add --scope user kimi-search node "$(pwd)/dist/index.js" -e KIMI_CODE_API_KEY=your-api-key
 
 # 验证
 claude mcp list
