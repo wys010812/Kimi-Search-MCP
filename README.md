@@ -21,6 +21,8 @@
 | `kimi_batch_search` | 批量多关键词搜索（最多 5 个） |
 | `kimi_batch_fetch` | 批量获取多个网页（最多 5 个） |
 
+> 💡 **特色功能**：`kimi_batch_search` 和 `kimi_batch_fetch` 是本项目的扩展功能，原生工具并不支持批量操作。
+
 > ⚠️ **测试状态**
 >
 > | 客户端 | 测试状态 |
