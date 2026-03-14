@@ -8,7 +8,7 @@
 
 **⚠️ 重要声明**
 
-本项目仅供学习研究和技术交流使用。如涉及任何侵权问题，请通过 [GitHub Issues](https://github.com/your-username/kimi-search-mcp/issues) 与我联系，我将第一时间核实并下架处理。
+本项目仅供学习研究和技术交流使用。如涉及任何侵权问题，请通过 [GitHub Issues](https://github.com/wys010812/Kimi-Search-MCP/issues) 与我联系，我将第一时间核实并下架处理。
 
 ---
 
