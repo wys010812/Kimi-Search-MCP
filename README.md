@@ -4,6 +4,14 @@
 
 基于 [Model Context Protocol](https://modelcontextprotocol.io) 的搜索服务，提供网络搜索和网页获取功能。兼容任何支持 MCP 的客户端。
 
+---
+
+**⚠️ 重要声明**
+
+本项目仅供学习研究和技术交流使用。如涉及任何侵权问题，请通过 [GitHub Issues](https://github.com/your-username/kimi-search-mcp/issues) 与我联系，我将第一时间核实并下架处理。
+
+---
+
 ## 功能
 
 | 工具 | 功能 |
