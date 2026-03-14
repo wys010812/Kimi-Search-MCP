@@ -13,6 +13,19 @@
 | `kimi_batch_search` | 批量多关键词搜索（最多 5 个） |
 | `kimi_batch_fetch` | 批量获取多个网页（最多 5 个） |
 
+> ⚠️ **测试状态**
+>
+> | 客户端 | 测试状态 |
+> |--------|----------|
+> | Claude Code | ✅ 已测试 |
+> | Claude Desktop | ⚠️ 未测试 |
+> | OpenCode | ⚠️ 未测试 |
+> | Codex | ⚠️ 未测试 |
+> | Cline | ⚠️ 未测试 |
+> | Continue | ⚠️ 未测试 |
+>
+> 欢迎提交 Issue 或 PR 分享其他客户端的测试结果。
+
 ## 安装
 
 ### 1. 获取 API Key
